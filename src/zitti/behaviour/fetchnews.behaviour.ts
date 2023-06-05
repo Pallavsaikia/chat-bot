@@ -1,5 +1,4 @@
 import { Behaviour } from "../../bot";
-import { Config } from "../../config";
 import { compareDay, timeSince } from "../../util";
 import { FetchNewsMemory } from "../memory";
 
