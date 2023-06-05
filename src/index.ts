@@ -2,7 +2,6 @@ import { Behaviour, Memory } from "./bot";
 import { Zitti, custombehaviour } from "./zitti";
 import { prompt } from "./cmdline";
 import { readFileLineByLine } from "./file";
-import fs from 'fs'
 
 async function start() {
     const behaviour: Behaviour<Memory>[] = []
