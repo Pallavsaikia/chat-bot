@@ -1,0 +1,5 @@
+export * from './fetchnews.memory'
+export * from './greetings.memory'
+export * from './room_clean.memory'
+export * from './shoppinglist.memory'
+export * from './weather.memory'
